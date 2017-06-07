@@ -31,5 +31,21 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Foo": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Bar": {
+    "dataSource": "db",
+    "public": true
+  },
+  "FooBar": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Widget": {
+    "dataSource": "db",
+    "public": true
   }
 }

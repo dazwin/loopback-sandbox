@@ -1,0 +1,13 @@
+{
+  "name": "FooBar",
+  "properties": {
+    "barId": {
+      "type": "string"
+    },
+    "fooId": {
+      "type": "string"
+    }
+  },
+  "relations": {
+  }
+}
